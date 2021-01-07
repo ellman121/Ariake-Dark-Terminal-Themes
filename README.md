@@ -52,4 +52,4 @@ Based on the largely popular [Ariake Dark Atom Theme](https://github.com/pathtrk
 
 1. Double click `AriakeDarkMacOS.terminal`
 2. Open Terminal Settings (`cmd + ,` by default)
-3. Set AriakeDarkMacOS as the default
+3. Set `AriakeDarkMacOS` as the default
