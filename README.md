@@ -2,7 +2,7 @@
 
 Based on the largely popular [Ariake Dark Atom Theme](https://github.com/pathtrk/ariake-dark-syntax) and the [VS Code variant](https://github.com/a-wart/ariake-dark).  This version is not a perfect recreation, but it's close enough for me to enjoy in my terminal(s).  PRs to improve are welcome.
 
-## Installation
+## Installation (Windows)
 
 1. Open Windows Terminal
 2. Click the Down Arrow and open settings (`ctrl + ,` by default)
@@ -47,3 +47,9 @@ Based on the largely popular [Ariake Dark Atom Theme](https://github.com/pathtrk
 ```
 
 5. Save and enjoy
+
+## Installation (OSX)
+
+1. Double click `AriakeDarkMacOS.terminal`
+2. Open Terminal Settings (`cmd + ,` by default)
+3. Set AriakeDarkMacOS as the default
