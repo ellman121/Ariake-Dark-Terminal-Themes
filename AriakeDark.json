@@ -1,0 +1,21 @@
+{
+    "name": "Ariake-Dark",
+    "cursorColor": "#E89CFC",
+
+    "black" : "#000000",
+    "red" : "#993d3d",
+    "green" : "#78b378",
+    "yellow" : "#999900",
+    "blue" : "#7bb1e5",
+    "purple" : "#e89cfc",
+    "cyan" : "#00a6b2",
+    "white" : "#bfbfbf",
+    "brightBlack" : "#666666",
+    "brightRed" : "#cc5252",
+    "brightGreen" : "#91d991",
+    "brightYellow" : "#e5e500",
+    "brightBlue" : "#7fdfff",
+    "brightPurple" : "#ff0cff",
+    "brightCyan" : "#00e5e5",
+    "brightWhite" : "#e5e5e5"
+}
