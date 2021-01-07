@@ -1,6 +1,6 @@
 # Ariake-Dark-Windows-Terminal-Theme
 
-## Based on the largely popular theme for Atom and VS Code.
+Based on the largely popular theme for Atom and VS Code.  This version is not a perfect recreation, but it's close enough for me to enjoy in my terminal(s).  PRs to improve are welcome.
 
 ## Installation
 
